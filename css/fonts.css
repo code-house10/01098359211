@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Lora";
+  src: url("https://smartpharaohs.com/"); /* IE9 Compat Modes */
+  src: url("https://smartpharaohs.com/#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://smartpharaohs.com/") format("svg"), /* Legacy iOS */
+    url("https://smartpharaohs.com/") format("truetype"), /* Safari, Android, iOS */
+    url("https://smartpharaohs.com/") format("woff"), /* Modern Browsers */
+    url("https://smartpharaohs.com/") format("woff2"); /* Modern Browsers */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lora";
+  src: url("https://smartpharaohs.com/"); /* IE9 Compat Modes */
+  src: url("https://smartpharaohs.com/#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://smartpharaohs.com/") format("svg"), /* Legacy iOS */
+    url("https://smartpharaohs.com/") format("truetype"), /* Safari, Android, iOS */
+    url("https://smartpharaohs.com/") format("woff"), /* Modern Browsers */
+    url("https://smartpharaohs.com/") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
+
