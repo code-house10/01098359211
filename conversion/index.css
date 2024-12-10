@@ -316,6 +316,7 @@ body
    align-items: center;
    margin: 0;
    justify-content: center;
+   box-sizing: border-box;
 }
 #ThemeableButton1
 {
@@ -611,8 +612,8 @@ body
 }
 #wb_ThemeableButton1
 {
-   display: inline-block;
-   width: 523px;
+   display: block;
+   width: 100%;
    height: 58px;
    z-index: 4;
 }
@@ -812,10 +813,10 @@ body
 }
 #wb_ThemeableButton1
 {
-   width: 450px;
+   width: 100%;
    height: 58px;
    visibility: visible;
-   display: inline-block;
+   display: block;
    margin: 0;
 }
 #ThemeableButton1
