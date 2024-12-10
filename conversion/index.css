@@ -308,14 +308,14 @@ body
 {
    box-sizing: border-box;
    padding: 0;
-   text-align: center;
+   text-align: right;
 }
 #wb_ThemeableButton1 .ui-button
 {
    display: flex;
    align-items: center;
    margin: 0;
-   justify-content: center;
+   justify-content: flex-end;
    box-sizing: border-box;
 }
 #ThemeableButton1
@@ -328,7 +328,7 @@ body
    display: inline-block;
    overflow: visible;
    position: absolute;
-   left: 10px;
+   left: 4px;
    margin: 0;
    top: 50%;
    transform: translateY(-50%);
